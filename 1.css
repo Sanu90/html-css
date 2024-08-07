@@ -1,0 +1,10 @@
+.parent{
+    font-size: large;
+    color: red;
+    
+}
+
+.child{
+    font-size: smaller;
+    color: blue;
+}
