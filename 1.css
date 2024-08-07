@@ -1,10 +1,17 @@
 .parent{
-    font-size: large;
-    color: red;
-    
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    align-items: center;
 }
 
 .child{
-    font-size: smaller;
-    color: blue;
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    align-items: right;
+}
+
+#body,html{
+    height: 100%;
 }
